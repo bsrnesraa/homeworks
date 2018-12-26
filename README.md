@@ -1,2 +1,2 @@
 # homeworks
-Bu proje software ödevi için eklendi.
+Bursa Teknik Üniversitesi Bilgisayar Mühendisliği bölümü ödevleri.
